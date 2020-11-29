@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 fffffffffffffffffffff1
 =======
 la vida loca1
+=======
+fffffffffffffffffffff2
+=======
+la vida loca2
+>>>>>>> e6b8c28772111a7bd08d5434436dbde263ac4a00
 >>>>>>> body
